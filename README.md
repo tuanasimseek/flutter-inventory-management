@@ -1,11 +1,17 @@
-# Mağaza Envanter Takip Sistemi — Flutter
+# Stok Yönetim Sistemi — Flutter
 
-Flutter ile geliştirilmiş mobil uygulama. Ürün ekleme, stok takibi ve düzenleme özellikleri içerir.
+Flutter ile geliştirilmiş, mağaza stoklarını yönetmeye yönelik bir mobil uygulama.
 
-## Teknolojiler
+## Özellikler
+- Ürün ekleme, düzenleme ve silme
+- Stok miktarlarını takip etme
+- Basit ve temiz kullanıcı arayüzü
+
+## Kullanılan Teknolojiler
 - Flutter
 - Dart
 
-## Özellikler
-- Ürün ekleme / düzenleme / silme
-- Stok miktarı takibi
+## Nasıl Çalıştırılır
+1. Flutter SDK’yı yükleyin
+2. `flutter pub get` komutunu çalıştırın
+3. `flutter run` komutunu çalıştırın
