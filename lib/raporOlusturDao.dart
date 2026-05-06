@@ -12,6 +12,8 @@ class raporOlusturDao {
     } else {
       return null;
     }
+
+    
   }
 
   // Gerçek zamanlı rapor verilerini hesapla
